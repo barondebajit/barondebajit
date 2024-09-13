@@ -12,7 +12,7 @@
 
 <h1 align="center">My Tech Stack</h1>
 
-## Programming Languages Known:
+## Languages Known:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,rust" /><br/>
